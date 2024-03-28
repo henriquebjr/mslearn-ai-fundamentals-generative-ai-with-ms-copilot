@@ -1,6 +1,6 @@
 # mslearn-ai-fundamentals-generative-ai-with-ms-copilot
 
-Microsoft Copilot: [](https://copilot.microsoft.com)
+Microsoft Copilot: [https://copilot.microsoft.com](https://copilot.microsoft.com)
 
 # Prompts
 
